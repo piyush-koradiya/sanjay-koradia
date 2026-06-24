@@ -1,0 +1,101 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Me",
+    "moments": "Moments",
+    "press": "Press",
+    "locale": "EN"
+  },
+  "footer": {
+    "tagline": "Serving the People of Junagadh with Dedication and Integrity",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "copyright": "© {year} Sanjay Koradia. All rights reserved.",
+    "address": "Junagadh, Gujarat, India"
+  },
+  "home": {
+    "heroSlide1Title": "Serving Junagadh with Vision",
+    "heroSlide1Subtitle": "Dedicated to the progress and welfare of every citizen",
+    "heroSlide2Title": "Rooted in Values, Built for Progress",
+    "heroSlide2Subtitle": "Bringing change through honest leadership",
+    "heroSlide3Title": "A Voice for Every Citizen",
+    "heroSlide3Subtitle": "Empowering communities across Junagadh",
+    "heroCta": "Learn More",
+    "statsYears": "Years of Service",
+    "statsYearsValue": "15+",
+    "statsConstituency": "Constituency",
+    "statsConstituencyValue": "Junagadh",
+    "statsProjects": "Development Projects",
+    "statsProjectsValue": "200+",
+    "missionTitle": "Committed to a Better Gujarat",
+    "missionSubtitle": "A Vision for Junagadh",
+    "missionText": "Sanjay Koradia has dedicated his life to public service, championing the causes of farmers, youth, and the underprivileged. His leadership is rooted in honesty, tireless work, and a genuine connection with the people of Junagadh.",
+    "missionCta": "Read My Story",
+    "momentsTitle": "Recent Moments",
+    "momentsSubtitle": "Glimpses of service in action",
+    "momentsCta": "View All Moments",
+    "pressTitle": "In the News",
+    "pressSubtitle": "Press coverage and media highlights",
+    "pressCta": "View All Press"
+  },
+  "progress": {
+    "subtitle": "Development Across Junagadh",
+    "title": "Progress in Every Corner",
+    "intro": "Explore the work carried out across the wards and villages of the Junagadh constituency. Tap any area on the map to zoom in and see its development progress.",
+    "hint": "Tap an area or village number to view its progress",
+    "reset": "Back to full map",
+    "areaLabel": "Area / Village",
+    "projects": "Projects",
+    "completed": "Completed",
+    "highlights": "Key Developments",
+    "emptyTitle": "Select an area to begin",
+    "emptyText": "Click or tap any numbered area or village on the map to view the development progress there."
+  },
+  "about": {
+    "pageTitle": "About Sanjay Koradia",
+    "pageSubtitle": "A life dedicated to public service, integrity, and the people of Junagadh",
+    "bioTitle": "Biography",
+    "timelineTitle": "Key Milestones",
+    "para1": "Province, language, thinking and bringing together the interests of the whole society on gender and caste is not impossible, but very difficult to do. But the vision of Mr. Sanjaybhai Koradiya is very clear in every aspect, so that along with his colleagues, his competitors will also be affected. Let us view his personality in future horizon from his past and current achievements.",
+    "para2": "He belongs to a hardworking farming family and grew up in a small village called Nani Vavdi. This upbringing prompted him to look closely at the smallest voices and feel one with every person's struggles — a foundation that guides his problem-solving to this day.",
+    "para3": "Mr. Sanjaybhai grew further after his father Mr. Krishna Das shifted to Junagadh. His father worked with immense perseverance and, with the blessings of God, became the owner of a firm where he once worked. The virtues of truth-telling, hard work, timeliness, and exactness were gifted to Sanjaybhai by his father.",
+    "para4": "He began his business journey from college days itself, developing a wide circle of mutual trust through his interpersonal skills, honesty, and market acumen. He established his first commercial venture, Vanraj Food Industries. With time, his irrepressible commitment to quality made his name a signature in the industry.",
+    "para5": "Beyond business, he has actively helped preserve scriptural values and culture through numerous community activities. In today's political climate, colleagues who truly value ethics are rare. Sanjaybhai's services stand apart for precisely this reason.",
+    "timeline1Year": "Early Life",
+    "timeline1Event": "Born and raised in Nani Vavdi village into a farming family",
+    "timeline2Year": "Education",
+    "timeline2Event": "Pursued higher education; began building business connections from college days",
+    "timeline3Year": "Business",
+    "timeline3Event": "Founded Vanraj Food Industries — becoming a respected name in Gujarat's food industry",
+    "timeline4Year": "Public Life",
+    "timeline4Event": "Entered public service, championing the rights of farmers and the marginalised",
+    "timeline5Year": "Politics",
+    "timeline5Event": "Elected as MLA, Junagadh — committed to development, education, and welfare"
+  },
+  "moments": {
+    "pageTitle": "Moments",
+    "pageSubtitle": "Snapshots of service, community engagement, and milestones from across Junagadh",
+    "filterAll": "All",
+    "filterEvent": "Events",
+    "filterCommunity": "Community",
+    "filterDevelopment": "Development"
+  },
+  "press": {
+    "pageTitle": "Press & Media",
+    "pageSubtitle": "Press releases, interviews, and media coverage of Sanjay Koradia's work",
+    "keyHighlights": "Key Highlights",
+    "readMore": "Read Full Article",
+    "filterAll": "All",
+    "filterPress": "Press Release",
+    "filterPodcast": "Podcast",
+    "filterInterview": "Interview"
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "viewAll": "View All",
+    "backToTop": "Back to Top",
+    "loading": "Loading...",
+    "sanjayKoradia": "Sanjay Koradia",
+    "junagadhMLA": "MLA, Junagadh"
+  }
+}

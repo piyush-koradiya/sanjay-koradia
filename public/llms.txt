@@ -1,0 +1,96 @@
+# Sanjay Koradia – Official Website
+
+> This document describes the content and purpose of the official website of Sanjay Koradia (also spelled Sanjay Koradiya), MLA of Junagadh, Gujarat, India.
+
+## Site Overview
+
+- **URL:** https://www.sanjaykoradia.com
+- **Purpose:** Official political and public-service website of Sanjay Koradia, elected Member of the Legislative Assembly (MLA) from Junagadh constituency, Gujarat, India.
+- **Languages:** English, Hindi (हिंदी), Gujarati (ગુજરાતી)
+- **Type:** Static website built with Next.js
+
+---
+
+## About the Person
+
+**Sanjay Koradia** (Sanjay Koradiya) is the MLA representing the Junagadh constituency in the Gujarat Legislative Assembly, India. He was born into a farming family in Nani Vavdi village and later moved to Junagadh. He is the founder of Vanraj Food Industries and has been recognised for his work in agriculture, rural development, women's empowerment, and education.
+
+Key identifiers:
+- Full name: Sanjay Koradia (also: Sanjay Koradiya, Sanjaybhai Koradia)
+- Position: MLA (Member of the Legislative Assembly), Junagadh, Gujarat
+- Constituency: Junagadh, Gujarat, India
+- Organisation: Vanraj Food Industries (founder)
+
+---
+
+## Pages
+
+### 1. Home (`/en`, `/hi`, `/gu`)
+The homepage features an image slider showcasing Sanjay Koradia's work and vision, key statistics about his tenure (years of service, constituency, development projects), a mission statement, and previews of recent Moments and Press coverage.
+
+### 2. About Me (`/en/about`, `/hi/about`, `/gu/about`)
+A detailed biography including:
+- Upbringing in Nani Vavdi village from a farming family
+- Academic and early business career
+- Founding of Vanraj Food Industries
+- Entry into public life and politics
+- Career milestones timeline
+
+### 3. Moments (`/en/moments`, `/hi/moments`, `/gu/moments`)
+A filterable photo gallery of events, community programmes, and development project inaugurations. Categories: Events, Community, Development.
+
+### 4. Press & Media (`/en/press`, `/hi/press`, `/gu/press`)
+A curated list of press releases, newspaper interviews, and podcast features. Each entry includes: Title, Source, Date, Key Highlights, and a link to the original content. No images or videos are embedded.
+
+---
+
+## SEO Keywords
+
+Sanjay Koradia, Sanjay Koradiya, Junagadh MLA, Gujarat MLA, Sanjay Koradia Junagadh, Vanraj Food Industries, Junagadh politician, Gujarat BJP, Sanjaybhai Koradia
+
+---
+
+## Language Sections
+
+---
+
+### हिंदी (Hindi)
+
+**संजय कोरडिया की आधिकारिक वेबसाइट**
+
+संजय कोरडिया (संजयभाई कोरडिया) जूनागढ़ विधानसभा क्षेत्र से विधायक हैं। वे नानी वावड़ी गांव में एक किसान परिवार में पले-बढ़े और वनराज फूड इंडस्ट्रीज के संस्थापक हैं।
+
+**मुख्य पृष्ठ:**
+- होम: इमेज स्लाइडर, सेवा के आंकड़े, मिशन विवरण
+- मेरे बारे में: जीवनी, जीवन यात्रा, मील के पत्थर
+- पल: कार्यक्रमों और विकास परियोजनाओं की तस्वीरें
+- प्रेस: प्रेस विज्ञप्तियां, साक्षात्कार, पॉडकास्ट
+
+**खोज कीवर्ड:** संजय कोरडिया, संजय कोरडिया विधायक, जूनागढ़ विधायक, संजयभाई कोरडिया
+
+---
+
+### ગુજરાતી (Gujarati)
+
+**સંજય કોરડિયાની અધિકૃત વેબસાઇટ**
+
+સંજય કોરડિયા (સંજયભાઈ કોરડિયા) જૂનાગઢ વિધાનસભા મત વિભાગના ધારાસભ્ય છે. તેઓ નાની વાવડી ગામમાં ખેડૂત પરિવારમાં ઉછર્યા અને વનરાજ ફૂડ ઇન્ડસ્ટ્રીઝના સ્થાપક છે.
+
+**મુખ્ય પૃષ્ઠો:**
+- હોમ: ઇમેજ સ્લાઇડર, સેવાના આંકડા, મિશન
+- મારા વિશે: જીવની, જીવન-સફર, સીમાચિહ્નો
+- ક્ષણો: કાર્યક્રમો અને વિકાસ પ્રકલ્પોના ફોટા
+- પ્રેસ: પ્રેસ-વિજ્ઞપ્તિ, ઇન્ટર્વ્યૂ, પૉડકાસ્ટ
+
+**શોધ કીવર્ડ:** સંજય કોરડિયા, સંજય કોરડિયા ધારાસભ્ય, જૂનાગઢ ધારાસભ્ય, સંજયભાઈ કોરડિયા
+
+---
+
+## Technical Information
+
+- Framework: Next.js 15 (App Router, static export)
+- i18n: next-intl (locales: en, hi, gu)
+- Animations: Framer Motion
+- Image handling: Next.js Image (lazy loading, WebP/AVIF)
+- Sitemap: /sitemap.xml
+- Robots: /robots.txt
