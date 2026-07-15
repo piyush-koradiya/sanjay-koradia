@@ -1,0 +1,9 @@
+{
+  "cleanUrls": false,
+  "rewrites": [
+    {
+      "source": "/google4687dd190cbedbd5.html",
+      "destination": "/google4687dd190cbedbd5.txt"
+    }
+  ]
+}
