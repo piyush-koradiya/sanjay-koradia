@@ -4,7 +4,7 @@
 
 ## Site Overview
 
-- **URL:** https://www.sanjaykoradia.com
+- **URL:** https://sanjaykoradia.com
 - **Purpose:** Official political and public-service website of Sanjay Koradia, elected Member of the Legislative Assembly (MLA) from Junagadh constituency, Gujarat, India.
 - **Languages:** English, Hindi (हिंदी), Gujarati (ગુજરાતી)
 - **Type:** Static website built with Next.js

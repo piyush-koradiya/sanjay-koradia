@@ -67,12 +67,12 @@ export default function Footer() {
               <li className="flex items-start gap-2">
                 <span className="text-[var(--color-primary)] mt-0.5">🌐</span>
                 <a
-                  href="https://www.sanjaykoradia.com"
+                  href="https://sanjaykoradia.com"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-[var(--color-primary)] transition-colors"
                 >
-                  www.sanjaykoradia.com
+                  sanjaykoradia.com
                 </a>
               </li>
             </ul>

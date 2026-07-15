@@ -12,7 +12,9 @@ const inter = Inter({
   display: "swap",
 });
 
-const siteUrl = "https://www.sanjaykoradia.com";
+// Apex is the Vercel primary domain (www redirects here). Google's favicon
+// crawler often fails to update when the indexed host only serves via redirect.
+const siteUrl = "https://sanjaykoradia.com";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
@@ -36,10 +38,23 @@ export const metadata: Metadata = {
   creator: "Sanjay Koradia",
   icons: {
     icon: [
+      // New absolute URLs so Google re-fetches instead of using the cached Vercel icon.
+      {
+        url: `${siteUrl}/brand-favicon-96.png`,
+        sizes: "96x96",
+        type: "image/png",
+      },
+      {
+        url: `${siteUrl}/brand-favicon-48.png`,
+        sizes: "48x48",
+        type: "image/png",
+      },
+      {
+        url: `${siteUrl}/brand-favicon-192.png`,
+        sizes: "192x192",
+        type: "image/png",
+      },
       { url: "/favicon.ico", sizes: "48x48" },
-      { url: "/favicon-48x48.png", sizes: "48x48", type: "image/png" },
-      { url: "/favicon-96x96.png", sizes: "96x96", type: "image/png" },
-      { url: "/icon.png", sizes: "192x192", type: "image/png" },
       { url: "/icon.svg", type: "image/svg+xml" },
     ],
     apple: [{ url: "/apple-icon.png", sizes: "180x180", type: "image/png" }],
