@@ -85,6 +85,16 @@ export default function Footer() {
           </p>
           <p className="text-xs text-gray-600">
             Built with ❤ for the people of Junagadh
+            <span className="mx-1.5">·</span>
+            Built by{" "}
+            <a
+              href="https://www.elintbrains.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-gray-400 hover:text-[var(--color-primary)] transition-colors"
+            >
+              Elint Brains
+            </a>
           </p>
         </div>
       </div>
