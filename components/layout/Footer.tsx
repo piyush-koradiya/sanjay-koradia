@@ -88,9 +88,9 @@ export default function Footer() {
             <span className="mx-1.5">·</span>
             Built by{" "}
             <a
-              href="https://www.elintbrains.com/"
+              href="https://www.elintbrains.com/?utm_source=sanjaykoradia.com&utm_medium=referral&utm_campaign=footer_credit"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="noopener"
               className="text-gray-400 hover:text-[var(--color-primary)] transition-colors"
             >
               Elint Brains
